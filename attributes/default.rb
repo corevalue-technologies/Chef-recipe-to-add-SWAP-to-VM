@@ -1,1 +1,1 @@
-default.swap[:size] = "2048k"
+default.swap[:size] = "4096m"

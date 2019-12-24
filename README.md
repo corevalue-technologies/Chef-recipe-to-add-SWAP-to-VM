@@ -14,7 +14,7 @@ Add in your Berksfile
 
 and add recipe 'addswap' in your run list.
 
-You can change required Memory in attributes/default.rb
+You can change required Memory in attributes/default.rb default is 4G (4096m).
 
 PS: The added Swap memory will be persistent i.e. will remain even you restart the system.
 
